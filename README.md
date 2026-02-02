@@ -26,5 +26,6 @@ Je construis des applications web modernes avec Node.js côté backend et Vue.js
 
 ## 📫 Me contacter
 
-- 💼 LinkedIn : [Corentin Vaugon](https://www.linkedin.com/in/corentin-vaugon/)
-- 📧 Email : corentin.vaugon.pro@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/corentin-vaugon)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:corentin.vaugon.pro@gmail.com)
